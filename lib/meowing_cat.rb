@@ -1,5 +1,4 @@
-class Cat = {
+class Cat = 
   :maru = []
-}
 
 end
