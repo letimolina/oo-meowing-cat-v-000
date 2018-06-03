@@ -1,7 +1,7 @@
 class Cat   
   attr_accessor
   
-  def name(cat)
+  def name
     "Maru"
   end
   
