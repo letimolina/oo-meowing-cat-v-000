@@ -1,4 +1,4 @@
 class Cat = 
-  :maru = []
+  :maru = Cat.new
 
 end
