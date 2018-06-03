@@ -1,1 +1,3 @@
-## code your solution here. 
+Cat = {
+  :maru = []
+}
