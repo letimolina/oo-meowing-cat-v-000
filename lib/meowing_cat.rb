@@ -1,3 +1,3 @@
 class Cat   
-  :maru
+  :attr_accessor
 end
