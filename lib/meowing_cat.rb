@@ -1,4 +1,4 @@
-Cat = {
+def Cat = {
   :maru = []
 }
 
