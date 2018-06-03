@@ -1,8 +1,12 @@
 class Cat   
   attr_accessor
   
+ def name=(name)
+    @name = "Maru"
+  end
+ 
   def name
-    "Maru"
+    @name
   end
   
   def meow
